@@ -77,7 +77,7 @@ Key Highlights:
 
 # 📎 GITHUB LINK
 
-[https://github.com/Tharun9092](https://github.com/goganadhanush/Travel-Planner-Ai-IBM-Watsonx)
+(https://github.com/goganadhanush/Travel-Planner-Ai-IBM-Watsonx)
 
 # 🪩 FUTURE SCOPE
 
