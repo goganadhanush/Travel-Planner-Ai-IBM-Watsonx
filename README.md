@@ -7,7 +7,6 @@ An AI-powered assistant that helps users plan trips efficiently and intelligentl
 
 There is a need for an intelligent system that can simplify and personalize travel planning for users. The goal is to design and develop an AI-powered Travel Planner Agent that can plan trips based on user preferences, suggest destinations, build customized itineraries, and recommend suitable transport and accommodation options. Additionally, it should leverage real-time data such as weather, maps, and events, efficiently manage bookings and alerts, and dynamically optimize schedules to enhance the overall travel experience.
  
-
 # 🧠 TECHNOLOGIES USED
 
 - IBM cloud lite services
